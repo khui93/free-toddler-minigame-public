@@ -1,0 +1,39 @@
+# Game updates
+- [x] Recheck all 72 flashcards on phone/desktop, correct remaining incomplete crops and print lines, and verify both maternal aunt flows.
+- [x] Distinguish mum's younger sister 姨姨 from older sister 姨媽; sharpen original pictures and keep picture frames larger than their contents.
+- [x] Reward Chinese names only on full completion; use original flashcard pictures with larger frames.
+- [x] Clean family cutouts, make Choose photo a visible link, and add typed members with elder/younger sibling choices.
+- [x] Build v2 Chinese picture matching, family tree with local photos, and Chinese name play.
+- [x] Save English and Chinese names on the device only, with clear/remove controls.
+- [x] Test v2 games and phone layouts; request publishing and advise online reopening without clearing phone data.
+- [x] Publish the offline update; connected GitHub synchronization is automatic, but its status cannot be inspected here.
+- [x] Add production-only offline caching, manifest, and home-screen icons.
+- [x] Add menu install option; verify every published route offline, letter/name game completion, name clearing, and preview safety.
+- [x] Remove audio and sound icons, update greeting and titles, and move name entry into Recognize my name.
+- [x] Verify updated entry and name-game flows.
+- [x] Request publishing.
+- [x] Clean picture cutouts and add hexagon, pentagon, and octagon.
+- [x] Expand color/type sorting, add ordered size ranks and room sorting.
+- [x] Verify updated game rules and play the updated sorting flows.
+- [x] Compact Apple Basket and verify no scrolling at the current screen size.
+- [x] Present the Phase 3 plan and receive approval.
+- [x] Build Phase 3 rules and five game routes with local artwork and no narration.
+- [x] Test all Phase 3 rules and verify each game, difficulty, retries, and compact layouts.
+- [x] Remove Number Finder, simplify Count the Bunny, and place moving apples inside the basket illustration.
+- [x] Verify immediate bunny answers and apple movement in both operations.
+- [x] Remove all voiceover and spoken greetings.
+- [x] Mix letter question case and exhaust all 26 letters before repeating.
+- [x] Give level 3 ten blanks and ten choices; animate completed number trains departing.
+- [x] Return name mini games to the name-game menu.
+- [x] Test and verify updated Phase 1 flows.
+- [x] Present Phase 2 plan for approval before implementation.
+- [x] Implement Number Finder, Count the Critters, and Apple Basket.
+- [x] Verify Phase 2 rules, tap-only game flows, and phone/tablet layouts.
+- [x] Remove letter phonics pronunciation while keeping pictures.
+- [x] Show a prominent popping star for correct answers.
+- [x] Shuffle level 3 number choices and verify the game flow.
+- [x] Fix letter round refresh and add picture phonics.
+- [x] Add shared mute and star feedback.
+- [x] Add three number levels.
+- [x] Return completed name games to menu.
+- [x] Run rule tests and verify game flows.
