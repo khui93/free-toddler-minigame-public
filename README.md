@@ -5,6 +5,7 @@
 Play the game @ https://free-toddler-minigame.lovable.app
 
 [Product requirements](PRD.md) : Read details of product behavior, requirements and roadmap
+
 [What I learned from testing](EVALUATION.md) : Evaluation and usability findings that led to design changes
 
 **Hi Sunshine** is a personal project. I wanted a simple way for my daughter to practice emerging skills through short, playful activities on a phone or tablet—especially when we're travelling or have a few quiet minutes together. I didn't want another subscription, a noisy app, or a game designed around rewards and screen time. I wanted something shaped by what she was learning, what interested her, and what she could actually use on her own.
